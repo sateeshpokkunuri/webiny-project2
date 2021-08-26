@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-	"name": "project1",
-=======
 	"name": "project2",
->>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
