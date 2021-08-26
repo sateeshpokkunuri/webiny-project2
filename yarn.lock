@@ -8310,8 +8310,13 @@ __metadata:
   linkType: hard
 
 "aws-sdk@npm:^2.0.0":
+<<<<<<< HEAD
   version: 2.974.0
   resolution: "aws-sdk@npm:2.974.0"
+=======
+  version: 2.975.0
+  resolution: "aws-sdk@npm:2.975.0"
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
   dependencies:
     buffer: 4.9.2
     events: 1.1.1
@@ -8322,7 +8327,11 @@ __metadata:
     url: 0.10.3
     uuid: 3.3.2
     xml2js: 0.4.19
+<<<<<<< HEAD
   checksum: 8abafd55fb7eb2b1cc5d81072c3873405568dcef5e611495b28ba714be7767747bf79e3d99eb45c50a30694f6b4460059af4c311a9e7fc85f008be9882d8e009
+=======
+  checksum: 90a7826c22c457dabccd1a667d47474d11fd421533f7b468b8e7b00f7c00feab0ca7233b37612395c7f39d7cb3265b3683907ca9994b1c00620bcec2ddb766fa
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
   languageName: node
   linkType: hard
 
@@ -11741,9 +11750,15 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.3.378, electron-to-chromium@npm:^1.3.811":
+<<<<<<< HEAD
   version: 1.3.815
   resolution: "electron-to-chromium@npm:1.3.815"
   checksum: 2c848bbd4c727186dc73b8322b35ebaa9d42560251fb2b2605d6bfc9e2660ce9386d20a9d56c552ab840673221dad759ffeadb77dca996162ecf852cf3636497
+=======
+  version: 1.3.816
+  resolution: "electron-to-chromium@npm:1.3.816"
+  checksum: caccde44ddeb9e9b609b40863e8cb27144e6d5e78e75109d1a17c043fd6583d1d9fff82d2f0bee93d20d0f959b46e33e338d5b0077df63de370b75333591d3d3
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
   languageName: node
   linkType: hard
 
@@ -20144,9 +20159,15 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "project1@workspace:.":
   version: 0.0.0-use.local
   resolution: "project1@workspace:."
+=======
+"project2@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "project2@workspace:."
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
   dependencies:
     "@babel/cli": ^7.10.4
     "@babel/core": ^7.10.4

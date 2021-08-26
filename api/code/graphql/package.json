@@ -3,8 +3,12 @@
 	"version": "0.1.0",
 	"scripts": {
 		"build": "yarn webiny run build",
+<<<<<<< HEAD
 		"watch": "yarn webiny run watch",
 		"watch2": "yarn webiny run watch"
+=======
+		"watch": "yarn webiny run watch"
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
 	},
 	"dependencies": {
 		"@webiny/api-elasticsearch": "5.13.0",

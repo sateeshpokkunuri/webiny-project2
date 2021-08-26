@@ -62,8 +62,13 @@ export const handler = createHandler({
         }),
         adminUsersPlugins(),
         securityAdminUsersDynamoDbStorageOperations(),
+<<<<<<< HEAD
         pageBuilderPlugins(),
         formBuilderPlugins(),
+=======
+        //pageBuilderPlugins(),
+        //formBuilderPlugins(),
+>>>>>>> c4fc1d3b2dd3bae2fed31ca54756a01b8f08d503
         headlessCmsPlugins(),
         headlessCmsDynamoDbElasticStorageOperation(),
         scaffoldsPlugins(),
