@@ -51,11 +51,11 @@ plugins.register([
     /**
      * Page Builder app.
      */
-    pageBuilderPlugins,
+    //pageBuilderPlugins,
     /**
      * Form Builder app.
      */
-    formBuilderPlugins,
+    //formBuilderPlugins,
     /**
      * Headless CMS app.
      */
